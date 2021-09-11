@@ -1,0 +1,83 @@
+.container{
+    width: 100%;
+}
+.menubar{
+    background: transparent;
+    opacity:0.5;
+}
+.menubar:hover{
+    background: transparent;
+    opacity:0.9;
+
+}
+
+/* .place_holder{
+    padding-top: 1%;
+} */
+.carousel-caption{
+    color: black;
+}
+
+.carousel-inner{
+   padding-left: 120px;
+   padding-right: 120px;
+}
+
+/* #reg_form{
+    padding-left: 20%;
+    padding-right: 20%;
+} */
+.section1{
+    background-color:#000;;
+    color:white;
+}
+.section2{
+    background-color:#000;;
+    color:#fff;
+
+}
+.carousel{
+    height: auto;
+}
+.carousel-item{
+    padding-left:50px;
+    /* height: 200px;
+    width: 200px; */
+}
+p.carousel-item{
+    text-align: center;
+    /* width: 25%;
+    padding-top:75%; */
+
+}
+.carousel-caption{
+    align-self: center;
+    padding-top: 60px;
+}
+.img-class{
+    height: 95%;
+    width: 94%;
+}
+.member_tbl{
+    padding-left: 15%;
+    padding-top: 15px;
+    color: white;
+}
+.mem_img{
+    height: 2cm;
+    width: 3cm;
+}
+.reg-div{
+    padding-top: 15px;
+    width: 60%;
+}
+.section3{
+    height: 600px;
+}
+
+.checked {
+    color: orange;
+  }
+.comment{
+    height: 100px;
+}
