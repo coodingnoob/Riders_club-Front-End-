@@ -23,10 +23,9 @@
    padding-right: 120px;
 }
 
-/* #reg_form{
-    padding-left: 20%;
-    padding-right: 20%;
-} */
+#reg_form{
+    height: 400px;
+}
 .section1{
     background-color:#000;;
     color:white;
@@ -72,7 +71,7 @@ p.carousel-item{
     width: 60%;
 }
 .section3{
-    height: 600px;
+    height: 100px;
 }
 
 .checked {
@@ -81,3 +80,16 @@ p.carousel-item{
 .comment{
     height: 100px;
 }
+.footer{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top:50px;
+    opacity: 0.5;
+}
+
+
+
+/* .section3{
+    margin-top: 50px;
+} */
